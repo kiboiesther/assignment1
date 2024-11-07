@@ -1,0 +1,58 @@
+SE_Day1_Assignment
+
+#Part 1: Introduction to Software Engineering
+
+1.Explain what software engineering is and discuss its importance in the technology industry. 
+It involves the design, development, testing, deployment, and maintenance of software products.
+It is important in that it enables in creating of software applications that solve real world problems.
+
+2.Identify and describe at least three key milestones in the evolution of software engineering.  
+i) Development of programming languages.
+ii)Establishment of software engineering as a principle.
+iii) The advent of structured programming.
+
+3.List and briefly explain the phases of the Software Development Life Cycle.
+i) Gathering and docuenting the user needs and system requirements.
+ii)Creating high-level and detailed designs of the software architecture and user interface.
+iii)Implementation, whereby coding takes place.
+iv)Testing, conducting various test to ensure the system fulfills the user needs.
+v)Deployment, releasing the system to the users and customers.
+vi)Maintenance, Providing ongoing support, updates, and enhancements to the software after deployment.
+
+4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterflow uses sequential method with distinct phases flowing downward like a waterfall.This is more suitabe for systems with fixed requirements thus less flexible.
+Agile uses iterative and incremental approach focused on flexibility, collaboration, and responding to change.This is more suitable for systems with changing requirements thus more flexible.
+
+5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software developer is responsible for writing code and implementing software solutions.
+Quality Assurance Engineer ensures software quality by designing and executing test plans.
+Project Manager oversees the planning, execution, and delivery of software projects.
+
+6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated Development Environments (IDEs) provide comprehensive tools for writing, debugging, and testing code. example: Netbeans.
+Version Control System tracks (VCS) tracks changes to source code and coordinating work among team members. example: Git.
+
+7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+  Requirements may change during the development cycle, leading to scope creep and project delays. Strategy: agile methodologies.
+  Pressure to deliver software products on schedule can result in rushed development and compromised quality. Strategy: regular reassessment of project goals and timelines.
+  Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs. Strategy: effective communication.
+
+8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit Testing: Testing individual components or modules of software.
+Integration Testing: Testing interactions between different components or subsystems.
+System Testing: Testing the entire software system as a whole.
+Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+1.Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. 
+Prompt engineering helps avoid getting vague answers by making your questions clear and specific.
+
+2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague prompt: tell me about birds.
+improved prompt: tell me about chicken , their feeds and the best environment for raring them.
+The improved prompt is more effective because it  clear and specific about what I actually need.
+
+
+
